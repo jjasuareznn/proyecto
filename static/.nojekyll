@@ -1,0 +1,5 @@
+# GitHub Pages Configuration
+
+Este archivo `.nojekyll` indica a GitHub Pages que no procese los archivos con Jekyll.
+
+Es necesario para que SvelteKit funcione correctamente en GitHub Pages.
