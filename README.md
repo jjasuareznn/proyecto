@@ -1,4 +1,4 @@
-# Prueba Lectiva
+# Arquitectura frontend lista para crecer sin mezclar UI con negocio
 
 Base SvelteKit con arquitectura `feature-first/domain-first` para integrar la API de Rick and Morty.
 
