@@ -9,9 +9,9 @@
 
 <section class="hero">
 	<div class="eyebrow">SvelteKit · Rick and Morty</div>
-	<h1>Arquitectura frontend lista para crecer sin mezclar UI con negocio</h1>
+	<h1>Trabajo final Electiva tercer corte Julian Suarez</h1>
 	<p>
-		Base feature-first/domain-first con contratos claros entre pantalla, dominio y API.
+		Base feature-first/domain-first con contratos claros entre pantalla, dominio y API. Despliegue configurado para GitHub Pages.
 	</p>
 </section>
 
