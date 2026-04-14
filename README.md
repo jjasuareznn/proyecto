@@ -2,6 +2,8 @@
 
 Base SvelteKit con arquitectura `feature-first/domain-first` para integrar la API de Rick and Morty.
 
+Repositorio: https://github.com/jjasuareznn/proyecto
+
 ## Run
 
 ```bash
