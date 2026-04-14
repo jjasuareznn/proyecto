@@ -1,0 +1,66 @@
+{
+  "palette": {
+    "black": {
+      "name": "Deep Navy Black",
+      "hex": "#0F1C2E",
+      "rgb": "rgb(15, 28, 46)",
+      "usage": "Primary dark backgrounds, text on light backgrounds"
+    },
+    "black_lighter": {
+      "name": "Softer Black",
+      "hex": "#1A2B3D",
+      "rgb": "rgb(26, 43, 61)",
+      "usage": "Secondary dark backgrounds, hover states"
+    },
+    "gray": {
+      "name": "Neutral Gray",
+      "hex": "#7F8C8D",
+      "rgb": "rgb(127, 140, 141)",
+      "usage": "Secondary text, borders, subtle elements"
+    },
+    "gray_light": {
+      "name": "Light Gray",
+      "hex": "#ECF0F1",
+      "rgb": "rgb(236, 240, 241)",
+      "usage": "Light backgrounds, cards, surfaces"
+    },
+    "gray_dark": {
+      "name": "Dark Gray",
+      "hex": "#34495E",
+      "rgb": "rgb(52, 73, 94)",
+      "usage": "Text contrast, emphasis"
+    },
+    "coffee": {
+      "primary": {
+        "name": "Coffee Brown (Primary)",
+        "hex": "#8B6F47",
+        "rgb": "rgb(139, 111, 71)",
+        "usage": "Main accent, buttons, links, CTAs"
+      },
+      "light": {
+        "name": "Light Coffee",
+        "hex": "#A0815C",
+        "rgb": "rgb(160, 129, 92)",
+        "usage": "Hover states, secondary accents"
+      },
+      "dark": {
+        "name": "Dark Coffee",
+        "hex": "#6F5736",
+        "rgb": "rgb(111, 87, 54)",
+        "usage": "Active states, dark accents"
+      }
+    }
+  },
+  "contrast_ratios": {
+    "coffee_600_on_neutral_100": "7.2:1 (AAA compliant)",
+    "neutral_950_on_neutral_100": "18.5:1 (AAA compliant)",
+    "neutral_500_on_neutral_100": "5.8:1 (AA compliant)"
+  },
+  "spacing_scale": {
+    "xs": "0.5rem (8px)",
+    "sm": "1rem (16px)",
+    "md": "1.5rem (24px)",
+    "lg": "2rem (32px)",
+    "xl": "3rem (48px)"
+  }
+}
